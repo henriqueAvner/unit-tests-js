@@ -1,8 +1,4 @@
 
-![image](https://github.com/henriqueAvner/unit-tests-js/assets/133919307/cafa0ea9-74d0-410b-a878-91affc6eca77)
-
-![image](https://github.com/henriqueAvner/unit-tests-js/assets/133919307/76ba415d-0e80-4dfb-b0de-8c100d73d0b2)
-
 <h2 align="center">
     <a href="https://jestjs.io/pt-BR/">🔗 Jest</a>
 </h2>
