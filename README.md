@@ -2,22 +2,23 @@
 
 <h1 align="center">Testes Unitários com Jest - Documentação</h1>
 
-## Descrição do Projeto
 <h1 align="center">
+## Descrição do Projeto
     <a href="https://jestjs.io/pt-BR/">🔗 Jest</a>
 </h1>
 <p align="center">🚀O projeto presente tem como intuito realizar testes unitários com a ferramenta Jest, em diferentes cenários.</p>
 
-<h4 align="center"> 
-	Unit Tests 🚀 Pronto! :white_check_mark:
+<h4> 
+#Status do projeto
+Unit Tests 🚀 Pronto! :white_check_mark:
 </h4>
+<h4> 
 ## Como Executar os Testes
-<h4 align="center"> 
 	Os testes rodam através do comando "npm run test" ou "npm run test (número do requisito)
 </h4>
 
+<h4> 
 ## Configuração do Ambiente
-<h4 align="center"> 
 	Apenas execute "npm install" ao fazer o fork do projeto, e utilize os comandos acima.
 </h4>
 ---
