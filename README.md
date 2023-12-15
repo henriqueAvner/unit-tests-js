@@ -1,17 +1,14 @@
-# Seu Projeto - Documentação
+# Testes Unitários com Jest - Documentação
 
 ## Descrição do Projeto
-Uma breve descrição do seu projeto.
+O projeto presente tem como intuito realizar testes unitários com a ferramenta Jest, em diferentes cenários.
 
 ## Como Executar os Testes
-Forneça instruções claras sobre como executar os testes unitários em Jest.
-
-## Exemplos de Testes
-Inclua alguns exemplos de testes unitários para demonstrar a funcionalidade do seu código.
+Os testes rodam através do comando "npm run test" ou "npm run test (número do requisito)
 
 ## Configuração do Ambiente
-Forneça informações sobre a configuração do ambiente necessário para executar os testes.
+Apenas execute "npm install" ao fazer o fork do projeto, e utilize os comandos acima.
 
 ---
 
-&copy; 2023 Seu Nome
+&copy; 2023 Avner
