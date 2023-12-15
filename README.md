@@ -1,5 +1,6 @@
 
-  ![image](https://github.com/henriqueAvner/unit-tests-js/raw/main/assets/133919307/7f16a27e-7aea-4a7c-b9b3-e4918ebce8a2.png)
+![image](https://github.com/henriqueAvner/unit-tests-js/raw/main/assets/133919307/7f16a27e-7aea-4a7c-b9b3-e4918ebce8a2.png)
+
 
 
 <h2 align="center">
