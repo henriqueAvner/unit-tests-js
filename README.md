@@ -1,4 +1,4 @@
-
+<div align="center>
 ![image](https://github.com/henriqueAvner/unit-tests-js/assets/133919307/cafa0ea9-74d0-410b-a878-91affc6eca77)
 
 
@@ -30,5 +30,6 @@ Os testes rodam através do comando "npm run test" ou "npm run test (número do 
 Apenas execute "npm install" ao fazer o fork do projeto, e utilize os comandos acima.
 </h4>
 ---
+</div>
 
 &copy; 2023 Avner
