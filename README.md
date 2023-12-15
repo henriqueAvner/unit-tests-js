@@ -1,3 +1,6 @@
+![image](https://github.com/henriqueAvner/unit-tests-js/assets/133919307/ad66a8ca-b104-463f-9d1c-5aa6c8d68d3b)
+
+
 # Testes Unitários com Jest - Documentação
 
 ## Descrição do Projeto
